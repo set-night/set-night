@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🎈 About Me:
 🎹 Finished 7 years of music school (hell)<br>🏐 I love basketball and volleyball.<br>✨️ I work for an idea.
 
 
@@ -11,5 +11,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=set-night&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
