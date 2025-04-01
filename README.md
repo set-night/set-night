@@ -1,5 +1,5 @@
 # 🎈 About Me:
-🎹 Finished 7 years of music school (hell)<br>🏐 I love basketball and volleyball.<br>✨️ I work for an idea.
+✨️ I work for an idea.
 
 
 # 💻 Tech Stack:
